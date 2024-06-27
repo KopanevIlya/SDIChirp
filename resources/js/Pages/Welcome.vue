@@ -158,7 +158,7 @@ function handleImageError() {
                     </section>
 
 
-                    <div class="flex justify-center h-60 items-center">
+                    <div class="flex justify-center h-60 items-center mt-5">
 
                         <div class="relative inline-flex h-60 group relative animate-bounce object-cover w-14 h-14 bg-cyan-800 rounded-full z-0 shadow-2xl shadow-gray-600">
                             <div
